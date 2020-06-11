@@ -6,4 +6,12 @@
       <class name="simple2.Test1"/>
     </classes>
   </test> <!-- Test -->
+  
+  <test name = "test 2">
+  	<classes>
+  		<class name = "sample.OpenBrowserEx"></class>
+  	</classes>
+  
+  </test>
+  
 </suite> <!-- Suite -->
